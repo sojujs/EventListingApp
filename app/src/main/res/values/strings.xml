@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>|
+    <string name="email">Email</string>
+    <string name="dont_have_account">If you don\'t have an account, a new account would be created for you automatically.</string>
+    <string name="login_register">Login or Register</string>
+    <string name="please_wait_">Please Wait ..</string>
+    <string name="title">Event Title</string>
+    <string name="when_date">When (Date)</string>
+    <string name="where">Where</string>
+    <string name="what">What</string>
+    <string name="how_much">How Much</string>
+    <string name="add_event">Add Event</string>
+    <string name="when_time">When (Time)</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="location">Location</string>
+    <string name="price">Price</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="the_list_is_empty">The list is empty!</string>
+    <string name="events">Events</string>
+    <string-array name="methods">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+</resources>
